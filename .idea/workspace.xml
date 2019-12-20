@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e72e42-33d4-4720-a256-8ccdedc09110" name="Default Changelist" comment="" />
+    <list default="true" id="e9e72e42-33d4-4720-a256-8ccdedc09110" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/domain/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,11 +112,24 @@
       <option name="presentableId" value="Default" />
       <updated>1576804646966</updated>
       <workItem from="1576804648856" duration="493000" />
+      <workItem from="1576806476170" duration="783000" />
     </task>
+    <task id="LOCAL-00001" summary="test for second commit">
+      <created>1576806561952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576806561952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test for second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="372" y="1" key="CommitChangelistDialog2" timestamp="1576806559265">
@@ -128,5 +144,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576805146447" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576806582869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576806582869" />
   </component>
 </project>
